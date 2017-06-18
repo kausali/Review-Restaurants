@@ -1,0 +1,22 @@
+#container {
+    height: 330px;
+    width: 300px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 100px;
+}
+
+#star{
+    display: inline-block;
+    vertical-align: top;
+}
+
+#submit{
+    margin: 10px;
+    margin-left: 30px;
+}
+
+#reviews{
+    margin-top: 20px;
+    margin-left: 10px;
+}
